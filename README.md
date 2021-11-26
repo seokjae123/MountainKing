@@ -1,5 +1,5 @@
 # 게임 제목: MountainKing
-
+![마운틴킹_메인](https://user-images.githubusercontent.com/49763288/143596631-e22d61f0-0c83-42ff-aa4c-2d073bebd72f.png)
 
 ***
 * ## 장르: 3인칭 액션 어드벤쳐
