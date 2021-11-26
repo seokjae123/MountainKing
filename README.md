@@ -27,4 +27,4 @@ MountainKing에서 유저는 연속 클릭을 통해 콤보 공격을 구사할 
 
 ***
 YouTube 시청 링크: https://youtu.be/JaJDodzocOw
-개인 e-mail: tjrwo9090@gmail.com
+/n개인 e-mail: tjrwo9090@gmail.com
